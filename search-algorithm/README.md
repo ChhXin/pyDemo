@@ -2,9 +2,13 @@
 python demos
 使用本仓库便于python学习和demo编写
 
--search-algorithm 搜索引擎算法模拟
+#### TF-IDF中文分词模拟
 待补充
--spider 爬虫集合
+
+#### Google PageRank算法模拟
+待补充
+
+#### HITS算法模拟
 待补充
 
 ```
